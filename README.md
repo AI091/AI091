@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahem</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 🔭 I’m currently working on [Store-System-API Project](https://github.com/AI091/Store-System-APII)
+- 🔭 I’m currently working on [Store-System-API Project](https://github.com/AI091/Store-System-API)
 
 - 🌱 I’m currently learning **Flask , React**
 
