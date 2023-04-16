@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahem</h1>
-<h3 align="center"Hi 👋, I'm Ahmed Ibrahem, a software engineer with a passion for building robust backend systems and exploring the latest trends in machine learning.</h3>
+<h3 align="center">I am a software engineer with a passion for building robust backend systems.   </h3>
 <div align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg"> </img> </div>
 
 - 🌱 I’m currently exploring new frameworks and technologies in backend web development, including Django and Flask, and learning about machine learning concepts and algorithms.
