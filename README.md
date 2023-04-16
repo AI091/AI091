@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahem</h1>
-<h3 align="center">I am a computer engineering student who is eager to learn more</h3>
+<h3 align="center"Hi 👋, I'm Ahmed Ibrahem, a software engineer with a passion for building robust backend systems and exploring the latest trends in machine learning.</h3>
 <div align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/632/34/549/technology-monitor-alpha-coders-binary-wallpaper-preview.jpg"> </img> </div>
 
-- 🔭 I’m currently working at [Master-Micro](https://github.com/master-micro)
+- 🌱 I’m currently exploring new frameworks and technologies in backend web development, including Django and Flask, and learning about machine learning concepts and algorithms.
 
-- 🌱 I’m currently learning **Backend Web Development**
+- 💬 Ask me about Python, C/C++, Java, Django, Flask, algorithms and data structures, or anything related to software engineering.
+                           
+- 🎓 I'm currently pursuing a Bachelor's degree in Computer Engineering at Egypt Japan University of Science and Technology.
 
-- 💬 Ask me about **Python , C/C++ , Java**
-
-- 📫 How to reach me **ahmedibrahem00091@gmail.com , https://www.linkedin.com/in/ahmed-ibrahem-a70938222/**
+- 📫 How to reach me **ahmedibrahem00091@gmail.com , https://www.linkedin.com/in/ahmed-ibrahem-a70938222/**.
+                                       
+- I'm always eager to learn and collaborate with others, so feel free to reach out and connect with me. Let's build something great together!
+                                       
 
 
 <h3 align="left">Languages and Tools:</h3>
